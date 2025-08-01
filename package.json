@@ -1,0 +1,10 @@
+{
+  "name": "flight-tracker-mcp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx -y mcp-remote https://mcp.turkishtechlab.com/mcp"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
